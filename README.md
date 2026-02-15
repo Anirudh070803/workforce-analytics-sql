@@ -11,4 +11,28 @@ A rule-based attrition risk model was engineered directly in SQL using salary qu
 ---
 
 ## Project Structure
+01_schema.sql
+02_data_population.sql
+03_kpi_analysis.sql
+04_salary_analysis.sql
+05_attrition_analysis.sql
+06_risk_model.sql
+07_executive_reporting.sql
 
+---
+
+## Technologies Used
+
+- PostgreSQL
+- Advanced SQL (CTEs, Window Functions, Aggregations)
+- Statistical Functions (STDDEV, CORR)
+- Feature Engineering in SQL
+
+---
+
+## Business Impact
+
+- Identifies high-risk employees
+- Highlights departments with elevated attrition
+- Provides executive-level workforce intelligence
+- Demonstrates production-style SQL analytics
